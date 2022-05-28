@@ -1,4 +1,4 @@
-# Change Date in Windows taskbar to a more pleasing format
+# [Change Date in Windows taskbar to a more pleasing format](https://anuragyayhdapu.github.io/win11-date-format/)
 
 I wanted the Date in the Windows-11 Taskbar to show the Day of the Week with an abbreviated version of the Month, like **Wed 25 May 2022**.
 
