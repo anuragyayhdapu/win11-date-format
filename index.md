@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Change Date in Windows taskbar to a more pleasing format
 
-You can use the [editor on GitHub](https://github.com/anuragyayhdapu/win11-date-format/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I wanted the Date in the Windows-11 Taskbar to show the Day of the Week with an abbreviated version of the Month, like **Wed 25 May 2022**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The standard ISO format to achieve the above date display is **ddd dd MMM yyyy**.
 
-### Markdown
+Now, let's change the format.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Open **Control Panel** and select **Change date, time or number formats** under the **Clock and Region** heading.
 
-```markdown
-Syntax highlighted code block
+2. In the opened **Region Window**, click on **Additional Settings** in the bottom right.
 
-# Header 1
-## Header 2
-### Header 3
+3. Click on the **Date** tab on top in the newly opened **Customise Format** window.
 
-- Bulleted
-- List
+4. Replace the text against **Short Date** as **ddd dd MMM yyyy**.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anuragyayhdapu/win11-date-format/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+6. Click **Apply** and then **OK**.
